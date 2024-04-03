@@ -46,6 +46,10 @@ Paper collection about Mamba
 
 ## Image
 
+(2024-04-02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [paper](http://arxiv.org/abs/2404.01705v1)
+
+(2024-04-01) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [paper](http://arxiv.org/abs/2404.01065v1)
+
 (2024-03-29) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [paper](http://arxiv.org/abs/2403.20183v1)
 
 (2024-03-29) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [paper](http://arxiv.org/abs/2403.18795v2)
@@ -159,6 +163,8 @@ Paper collection about Mamba
 
 ## Video
 
+(2024-04-01) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [paper](http://arxiv.org/abs/2404.01174v1)
+
 (2024-03-14) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding [paper](http://arxiv.org/abs/2403.09626v1)
 
 (2024-03-12) VideoMamba: State Space Model for Efficient Video Understanding [paper](http://arxiv.org/abs/2403.06977v2)
@@ -202,6 +208,10 @@ Paper collection about Mamba
 (2024-03-06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [paper](http://arxiv.org/abs/2403.03900v1)
 
 
+# Reinforcement Learning
+
+(2024-03-29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [paper](http://arxiv.org/abs/2403.19925v1)
+
 
 ## Life Sci.
 
@@ -216,6 +226,7 @@ Paper collection about Mamba
 
 
 ## Audio
+(2024-04-02) SPMamba: State-space model is all you need in speech separation [paper](http://arxiv.org/abs/2404.02063v1)
 
 (2024-03-27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [paper](http://arxiv.org/abs/2403.18257v1)
 
