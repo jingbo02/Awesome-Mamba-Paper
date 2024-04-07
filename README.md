@@ -5,6 +5,8 @@ Paper collection about Mamba
 
 ## NLP
 
+(2024-04-04) Locating and Editing Factual Associations in Mamba [paper](http://arxiv.org/abs/2404.03646v1)
+
 (2024-03-27) RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers [paper](http://arxiv.org/abs/2403.18276v1)
 
 (2024-03-26) Mechanistic Design and Scaling of Hybrid Architectures [paper](http://arxiv.org/abs/2403.17844v1) 
@@ -45,6 +47,12 @@ Paper collection about Mamba
 
 
 ## Image
+
+(2024-04-04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [paper](http://arxiv.org/abs/2404.03425v1)
+
+(2024-04-03) RS-Mamba for Large Remote Sensing Image Dense Prediction [paper](http://arxiv.org/abs/2404.02668v1)
+
+(2024-04-03) RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [paper](http://arxiv.org/abs/2404.02457v1)
 
 (2024-04-02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [paper](http://arxiv.org/abs/2404.01705v1)
 
@@ -118,6 +126,8 @@ Paper collection about Mamba
 (2024-01-18) VMamba: Visual State Space Model [paper](https://arxiv.org/abs/2401.10166)
 
 ## Medical Images
+
+(2024-04-01) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [paper](http://arxiv.org/abs/2403.17701v2)
 
 (2024-03-29) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [paper](http://arxiv.org/abs/2403.20035v1)
 
