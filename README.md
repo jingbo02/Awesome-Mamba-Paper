@@ -83,6 +83,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Image
 
+(2024-04-05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [paper](http://arxiv.org/abs/2404.04256v1)
+
 (2024-04-04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [paper](http://arxiv.org/abs/2404.03425v1)
 
 (2024-04-03) RS-Mamba for Large Remote Sensing Image Dense Prediction [paper](http://arxiv.org/abs/2404.02668v1)
