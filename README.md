@@ -2,6 +2,41 @@
 
 Paper collection about Mamba
 
+Mamba is a novel neural network architecture designed to challenge traditional Transformer models. It addresses the limitations of Transformers, particularly their quadratic growth in computation due to self-attention mechanisms. The Mamba architecture evolved from SSM->HiPPO->S4->Mamba stages. Notably, it efficiently balances effectiveness and efficiency, making it suitable for modeling long sequences. Researchers have evaluated Mamba across various tasks, including language, vision, and audio，among others. This repository is dedicated to assembling a meticulously curated collection of research papers, delving into the wide-ranging applications of Mamba across diverse fields.
+
+## Table of Contents
+- [Awesome-Mamba-Paper](#awesome-mamba-paper)
+  - [Table of Contents](#table-of-contents)
+  - [Contributing](#contributing)
+  - [NLP](#nlp)
+  - [Image](#image)
+  - [Medical Images](#medical-images)
+  - [Video](#video)
+  - [Point Cloud](#point-cloud)
+  - [Graph](#graph)
+  - [Recommendation](#recommendation)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Life Sci.](#life-sci)
+  - [Time Series](#time-series)
+  - [Audio](#audio)
+  - [Robot](#robot)
+  - [Brain](#brain)
+  - [Energy](#energy)
+  - [Finance](#finance)
+
+
+## Contributing
+
+Contributions to this repository are welcome!
+
+If you have come across relevant resources, feel free to open an issue or submit a pull request.
+
+```
+- (*conference|journal*) paper_name [[pdf](link)][[code](link)]
+```
+
+
+
 
 ## NLP
 
@@ -217,8 +252,7 @@ Paper collection about Mamba
 
 (2024-03-06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [paper](http://arxiv.org/abs/2403.03900v1)
 
-
-# Reinforcement Learning
+## Reinforcement Learning
 
 (2024-03-29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [paper](http://arxiv.org/abs/2403.19925v1)
 
