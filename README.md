@@ -172,6 +172,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Medical Images
 
+(2024-04-07) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [paper](http://arxiv.org/abs/2404.05105v1)
+
 (2024-04-01) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [paper](http://arxiv.org/abs/2403.17701v2)
 
 (2024-03-29) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [paper](http://arxiv.org/abs/2403.20035v1)
@@ -235,6 +237,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Point Cloud
+
+(2024-04-08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [paper](http://arxiv.org/abs/2404.05522v1)
 
 (2024-03-18) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy [paper](http://arxiv.org/abs/2403.06467v2)
 
