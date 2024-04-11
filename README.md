@@ -40,7 +40,11 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## NLP
 
+(2024-04-09) Does Transformer Interpretability Transfer to RNNs? [paper](http://arxiv.org/abs/2404.05971v1)
+
 (2024-04-04) Locating and Editing Factual Associations in Mamba [paper](http://arxiv.org/abs/2404.03646v1)
+
+(2024-03-28) Jamba: A Hybrid Transformer-Mamba Language Model [paper](http://arxiv.org/abs/2403.19887v1)
 
 (2024-03-27) RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers [paper](http://arxiv.org/abs/2403.18276v1)
 
@@ -82,6 +86,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Image
+
+(2024-04-09) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [paper](http://arxiv.org/abs/2404.06564v1)
 
 (2024-04-05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [paper](http://arxiv.org/abs/2404.04256v1)
 
@@ -237,6 +243,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Point Cloud
+
+(2024-04-10) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [paper](http://arxiv.org/abs/2404.07106v1)
 
 (2024-04-08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [paper](http://arxiv.org/abs/2404.05522v1)
 
