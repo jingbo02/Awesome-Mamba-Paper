@@ -40,7 +40,11 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## NLP
 
+(2024-04-09) Does Transformer Interpretability Transfer to RNNs? [paper](http://arxiv.org/abs/2404.05971v1)
+
 (2024-04-04) Locating and Editing Factual Associations in Mamba [paper](http://arxiv.org/abs/2404.03646v1)
+
+(2024-03-28) Jamba: A Hybrid Transformer-Mamba Language Model [paper](http://arxiv.org/abs/2403.19887v1)
 
 (2024-03-27) RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers [paper](http://arxiv.org/abs/2403.18276v1)
 
@@ -83,48 +87,52 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Image
 
+(2024-04-09) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [paper](http://arxiv.org/abs/2404.06564v1)
+
+(2024-04-05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [paper](http://arxiv.org/abs/2404.04256v1)
+
 (2024-04-04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [paper](http://arxiv.org/abs/2404.03425v1)
 
 (2024-04-03) RS-Mamba for Large Remote Sensing Image Dense Prediction [paper](http://arxiv.org/abs/2404.02668v1)
 
 (2024-04-03) RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [paper](http://arxiv.org/abs/2404.02457v1)
 
-(2024-04-02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [paper](http://arxiv.org/abs/2404.01705v1)
+(2024-04-02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [paper](http://arxiv.org/abs/2404.01705v1) [Code
+](https://github.com/zhuqinfeng1999/Samba)
 
 (2024-04-01) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [paper](http://arxiv.org/abs/2404.01065v1)
 
-(2024-03-29) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [paper](http://arxiv.org/abs/2403.20183v1)
+(2024-04-01) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2403.20035) [Code](https://github.com/wurenkai/UltraLight-VM-UNet)
 
-(2024-03-29) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [paper](http://arxiv.org/abs/2403.18795v2)
+(2024-03-29) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [paper](http://arxiv.org/abs/2403.20183v1)
 
 (2024-03-28) RSMamba: Remote Sensing Image Classification with State Space Model [paper](http://arxiv.org/abs/2403.19654v1)
 
-(2024-03-27) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [paper](http://arxiv.org/abs/2403.18795v1)
-
-
 (2024-03-26) ReMamber: Referring Image Segmentation with Mamba Twister [paper](http://arxiv.org/abs/2403.17839v1)
 
-(2024-03-26) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [paper](http://arxiv.org/abs/2403.17695v1)
+(2024-03-26) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [paper](http://arxiv.org/abs/2403.17695v1) [Code](https://github.com/ChenhongyiYang/PlainMamba)
 
 (2024-03-26) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [paper](http://arxiv.org/abs/2403.16536v2)
+
+(2024-03-26) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [Paper](https://arxiv.org/abs/2403.17432) [Code]
 
 (2024-03-25) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [paper](http://arxiv.org/abs/2402.15648v2)
 
 (2024-03-22) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [paper](http://arxiv.org/abs/2403.15360v1)
 
-(2024-03-22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [paper](http://arxiv.org/abs/2403.14520v2)
+(2024-03-22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [paper](http://arxiv.org/abs/2403.14520v2) [Code](https://sites.google.com/view/cobravlm)
+
+(2024-03-22) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [Paper](https://arxiv.org/abs/2403.18795) [Code]
 
 (2024-03-20) ZigMa: Zigzag Mamba Diffusion Model [paper](http://arxiv.org/abs/2403.13802v1)
 
 (2024-03-20) VL-Mamba: Exploring State Space Models for Multimodal Learning [paper](http://arxiv.org/abs/2403.13600v1)
 
-(2024-03-19) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [paper](http://arxiv.org/abs/2403.07487v3)
-
 (2024-03-18) VmambaIR: Visual State Space Model for Image Restoration [paper](https://arxiv.org/abs/2403.11423)
 
 (2024-03-17) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [paper](http://arxiv.org/abs/2403.02148v3)
 
-(24-03-15) On the low-shot transferability of [V]-Mamba [paper](https://arxiv.org/abs/2403.10696)
+(24-03-15) On the low-shot transferability of [V]-Mamba [paper](https://arxiv.org/abs/2403.10696) [Code](https://github.com/TerryPei/EfficientVMamba)
 
 (2024-03-15) P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [paper](http://arxiv.org/abs/2402.08506v2)
 
@@ -138,29 +146,39 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 (2024-03-13) Activating Wider Areas in Image Super-Resolution [paper](http://arxiv.org/abs/2403.08330v1)
 
-(2024-03-11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [paper](http://arxiv.org/abs/2403.06800v1)
+(2024-03-12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba/)
 
-(2024-03-09) Pan-Mamba: Effective pan-sharpening with State Space Model [paper](http://arxiv.org/abs/2402.12192v2)
+(2024-03-11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [paper](http://arxiv.org/abs/2403.06800v1)
 
 (2024-03-08) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [paper](http://arxiv.org/abs/2403.05160v1)
 
 (2024-03-08) Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy [paper](http://arxiv.org/abs/2403.05146v1)
 
-(2024-02-24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [paper](http://arxiv.org/abs/2402.15761v1)
+(2024-03-08) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
 
-(2024-02-23) State Space Models for Event Cameras [paper](https://arxiv.org/abs/2402.15584)
+(2024-03-04) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [Paper](https://arxiv.org/abs/2403.02148) [Code](https://github.com/txchen-USTC/MiM-ISTD)
+
+(2024-02-24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [paper](http://arxiv.org/abs/2402.15761v1) [Code](https://github.com/ChiShengChen/ResVMamba)
+
+(2024-02-23) State Space Models for Event Cameras [paper](https://arxiv.org/abs/2402.15584) 
+
+(2024-02-19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba)
 
 (2024-02-16) U-shaped Vision Mamba for Single Image Dehazing [paper](http://arxiv.org/abs/2402.04139v4)
 
 (2024-02-14) FD-Vision Mamba for Endoscopic Exposure Correction [paper](http://arxiv.org/abs/2402.06378v2)
 
-(2024-02-10) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [paper](http://arxiv.org/abs/2401.09417v2)
-
 (2024-02-08) Scalable Diffusion Models with State Space Backbone [paper](https://arxiv.org/abs/2402.05608v3)
+
+((2024-02-05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba)
 
 (2024-01-18) VMamba: Visual State Space Model [paper](https://arxiv.org/abs/2401.10166)
 
+(2024-01-17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
+
 ## Medical Images
+
+(2024-04-07) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [paper](http://arxiv.org/abs/2404.05105v1)
 
 (2024-04-01) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [paper](http://arxiv.org/abs/2403.17701v2)
 
@@ -225,6 +243,10 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Point Cloud
+
+(2024-04-10) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [paper](http://arxiv.org/abs/2404.07106v1)
+
+(2024-04-08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [paper](http://arxiv.org/abs/2404.05522v1)
 
 (2024-03-18) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy [paper](http://arxiv.org/abs/2403.06467v2)
 
