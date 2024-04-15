@@ -89,6 +89,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Image
 
+(2024-04-12) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [paper](http://arxiv.org/abs/2404.08489v1)
+
 (2024-04-11) FusionMamba: Efficient Image Fusion with State Space Model [paper](http://arxiv.org/abs/2404.07932v1)
 
 (2024-04-11) DGMamba: Domain Generalization via Generalized State Space Model [paper](http://arxiv.org/abs/2404.07794v1)
@@ -183,6 +185,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 (2024-01-17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
 
 ## Medical Images
+
+(2024-04-12) MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [paper](http://arxiv.org/abs/2404.08406v1)
 
 (2024-04-11) ViM-UNet: Vision Mamba for Biomedical Segmentation [paper](http://arxiv.org/abs/2404.07705v1)
 
